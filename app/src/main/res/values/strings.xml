@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab7_storage</string>
+    <string name="new_pw_hint">New Password</string>
+    <string name="conf_pw_hint">Confirm Passsword</string>
+    <string name="button_ok">OK</string>
+    <string name="button_clear">CLEAR</string>
+    <string name="input_pw">Password</string>
+    <string name="file_title">File Editor</string>
+    <string name="file_content_hint">File Content Here</string>
+    <string name="file_save">SAVE</string>
+    <string name="file_load">LOAd</string>
+    <string name="file_clear">CLEAR</string>
+    <string name="file_delete">DELETE</string>
+    <string name="pw_empty">Password cannot be empty</string>
+    <string name="pw_mismatch">Password Mismatch</string>
+    <string name="file_save_success">Save successfully</string>
+    <string name="file_load_failed">Fail to load file</string>
+    <string name="file_load_success">Load successfully</string>
+    <string name="file_delete_success">Delete successfully</string>
+</resources>
